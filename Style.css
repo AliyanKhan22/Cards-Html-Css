@@ -1,0 +1,128 @@
+body
+    {
+     Background:linear-gradient(to right,#eabfff,#0f88eb);
+     Text-transform:capitalized;
+    }
+    .main
+    {
+     Display:inline-block;
+     width:35vw;
+     height:580px;
+     border-radius:17px;
+     margin:25px 67px;
+     background-color: white;
+     box-shadow:5px 6px 10px black;
+    }   
+    .main2
+    {
+        Display:inline-block;
+        width:35vw;
+        height:580px;
+        border-radius:17px;
+        margin:25px 67px;
+        background-color: white;
+        box-shadow:5px 6px 10px black;
+        margin-left:30%;
+    }
+    .main img
+    {
+     width:100%;
+     border-radius:15px 15px 0px 0px;
+     object-fit:Cover;
+    } 
+    .main2 img
+    {
+     width:100%;
+     border-radius:15px 15px 0px 0px;
+     object-fit:Cover;
+    } 
+    .tech
+    {
+     Background-color:#3bbaeac8;
+     padding:3px 9px;
+     border-radius:30px;
+     color:white;
+     margin:6px 12px;
+     outline:none;
+    }
+    .tech:hover {
+            background: #381a8a;
+        }
+        .text h3
+        {
+         margin:6px 12px;
+         font-weight:700;
+        }
+        .text p
+        {
+         margin:0px 12px;
+         font-size:14p;
+         text-align:;
+        }
+        .main .Box{
+            Display: inline-block;
+            width:90%;
+            margin:20px 12px;
+            height:60px;
+        }
+        .main2 .Box{
+            Display: inline-block;
+            width:90%;
+            margin:20px 12px;
+            height:60px;
+        }
+        .Box img{
+            Width:32%;
+            border-radius:100px 100px;
+        }
+        .Box h4{
+            Position:relative;
+            left:35%;
+            Bottom:128%;
+        }
+        .Box p
+        {
+         Position:relative;
+         left:33%;
+         bottom:158%;
+        }
+        .food
+        {
+         Background-color:#ffc755;
+         padding:3px 9px;
+          border-radius:30px;
+          color:white;
+          margin:6px 12px;
+          outline:none;
+        }
+        .food:Hover
+        {
+         Background-color:Black;
+        }
+        .Race
+        {
+         Background-color:Red;
+         padding:3px 9px;
+         border-radius:30px;
+          color:white;
+         margin:6px 12px;
+         outline:none;
+        }
+        .Race:Hover
+        {
+         Opacity:0.10;
+        }
+        #X
+        {
+         Position:Absolute;
+        }
+        h1
+        {
+         Font-Weight:900;
+         Margin-left:58%;
+         font-family:Brush Script MT, Brush Script Std, cursive;
+        }
+        .m
+        {
+            margin-right: 75px;
+        }
